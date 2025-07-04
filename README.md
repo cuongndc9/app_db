@@ -5,5 +5,5 @@ Multiple databases 🐳🐳 for PostgreSQL Docker Image
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+> "A person who never made a mistake never tried anything new." - Albert Einstein
 <!-- INSPIRATIONAL_QUOTE_END -->
